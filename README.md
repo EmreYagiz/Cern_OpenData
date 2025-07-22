@@ -15,7 +15,7 @@ A study of Z boson production via the dilepton (ℓ⁺ℓ⁻) decay channel usin
 - Plots showing Z peak and kinematic distributions
 - Final report (PDF)
 
-###  [Z_Boson_and_Jet Analysis](./Jet-analysis/)
+###  [Z_Boson_and_Jet Analysis](./Z_Boson+Jets/)
 An analysis of jet kinematics such as transverse momentum (`pₜ`) and pseudorapidity (`η`). This study focuses on:
 
 - Jet selection and cleaning
