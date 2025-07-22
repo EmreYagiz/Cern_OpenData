@@ -8,7 +8,7 @@ All analyses are performed using Python with `uproot`, `awkward-array`, and othe
 
 ## Projects
 
-### 🔬 [Z Boson Analysis](./Z-boson/)
+###  [Z Boson Analysis](./Z-boson/)
 A study of Z boson production via the dilepton (ℓ⁺ℓ⁻) decay channel using CMS collision data. Includes:
 
 - Jupyter notebook for data selection and invariant mass reconstruction
